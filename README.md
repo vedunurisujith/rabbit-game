@@ -1,2 +1,2 @@
 # rabbit-game
-This is my game
+This is my first game
